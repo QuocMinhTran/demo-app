@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Github Actions
+          Learn Github Actions with AWS deployment
         </a>
       </header>
     </div>
